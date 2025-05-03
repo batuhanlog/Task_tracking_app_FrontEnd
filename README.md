@@ -1,13 +1,4 @@
----
-
-## 🔗 İlgili Repository: Backend API
-
-Bu projenin backend API kodlarına aşağıdaki linkten ulaşabilirsiniz:
-
-*   **[Task Tracking App - Backend API](https://github.com/batuhanlog/Task_tracking_app_BackEnd)** ⚙️
-
----
-
+⚙️Bu projenin API katmanına buradan ulaşabilirsiniz: [Task Tracking App - Backend](https://github.com/batuhanlog/Task_tracking_app_BackEnd)
 ![Ekran görüntüsü 2025-05-03 054646](https://github.com/user-attachments/assets/e5cd6932-df58-4cab-b7c0-2feb4bc76dde)
 ![Ekran görüntüsü 2025-05-03 054712](https://github.com/user-attachments/assets/773959fb-50e5-481e-9e93-afd5c08d67cc)
 ![Ekran görüntüsü 2025-04-30 033243](https://github.com/user-attachments/assets/6235e06a-f177-4e7f-9065-7b1833ab4cbd)
